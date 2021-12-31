@@ -1,0 +1,29 @@
+
+.screenshot-link {
+  display: inline-block;
+  padding: 5px;
+  margin: 0rem 0.5rem 0.5rem 0rem;
+  line-height: 0;
+  border-radius: 0.4rem;
+  outline: 0;
+  text-decoration: none;
+  box-sizing: border-box;
+  color: white;
+  background-color: white;
+  background-image: none !important;
+}
+
+.screenshot-link:hover {
+  background-color: red;
+}
+
+.screenshot-link:active {
+  background-color: red;
+}
+
+.screenshot-image {
+  width: 8rem;
+  border-radius: 0.25rem;
+  box-sizing: border-box;
+  line-height: 0;
+}

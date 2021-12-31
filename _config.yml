@@ -122,6 +122,8 @@ navigation_header:
   url: /
 - title: Blog
   url: /blog/
+- title: Screenshots
+  url: /screenshots/
 - title: Categories
   url: /categories/
 - title: Search

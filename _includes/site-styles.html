@@ -1,0 +1,5 @@
+{% capture styles %}
+  @import "alembic";
+  @import "lightbox";
+{% endcapture %}
+<style>{{ styles | scssify | strip_newlines }}</style>
