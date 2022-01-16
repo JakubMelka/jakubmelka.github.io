@@ -16,7 +16,7 @@ For this reason, in year 2018, I have decided to start a new project - PDF4QT, w
  - Offer better licensing terms than GPL or AGPL, so it is more usable in both open-source and commercial applications
  - Use modern **C++** features and utilize modern **multicore CPUs**
  - Support for Windows/Linux
- - Full support of standard **PDF 2.0**
+ - Support of standard **PDF 2.0**
  
 ## Future long-term goals
 These goals I would like to achieve in probably two years:
@@ -28,6 +28,7 @@ These goals I would like to achieve in probably two years:
  - OCR
  - presentation application
  - application managing collection of PDF documents
+ - full support of standard PDF 2.0
  
 ## What is unique?
 I have also implemented some features, which are unique to this project among other open source project (but commercial applications, of course, implement them). The first one noted, is **PDF4QT DocDiff** which can compare two similar PDF documents, on content basis. It examines content of both PDF documents and displays results of this comparison in well-formed GUI. Advanced algorithms are used for comparison, text is compared as whole and not per page basis, so it can handle text moving (for example, paragraph is on a new page in the second document), and images and vector graphics are also compared.
