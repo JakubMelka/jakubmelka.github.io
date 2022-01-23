@@ -64,8 +64,8 @@ collections:
     output: true
     description: "Official blog about PDF4QT software" # The post list page content
     feature_text: |
-      Welcome to the blog
-    feature_image: "https://picsum.photos/2560/600?image=866"
+      # <font face="Sans Serif">Welcome to the blog</font>
+    feature_image: "/assets/main.png"
 
 # 6. Jekyll collections settings
 defaults:

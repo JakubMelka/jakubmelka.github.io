@@ -1,8 +1,8 @@
 ---
 title: Screenshots
 feature_text: |
-  See screenshots of PDF applications
-feature_image: "https://picsum.photos/2560/600?image=873"
+ # <font face="Sans Serif">Gallery - View Screenshots</font>
+feature_image: "/assets/main.png"
 excerpt: "In this page, you will see screenshots from PDF4QT applications."
 aside: true
 ---

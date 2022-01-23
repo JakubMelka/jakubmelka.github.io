@@ -1,15 +1,15 @@
 ---
 title: About PDF4QT
 feature_text: |
-  ## PDF4QT
-  PDF4QT is open source Qt-based PDF processing software. It contains C++ library and applications for viewing/editing PDF documents and a command line tool.
+  # <font face="Sans Serif">PDF4QT</font>
+  <font face="Sans Serif">PDF4QT is open source Qt-based PDF processing software. It contains C++ library and applications for viewing/editing PDF documents and a command line tool.</font>
 feature_image: "assets/main.png"
 excerpt: "PDF4QT is all-in-one solution for processing PDF files on Windows/Linux. "
 ---
 
 PDF4QT is all-in-one open source software for processing PDF files on Windows/Linux. It's goal is to provide a **modern solution** for viewing/editing/rendering PDF documents both for users and developers. For developers, there is a **C++ library and** a **command line tool**, which can be used in scripts. For users, there are **four applications** offering many features. Project is hosted on [Github](https://github.com/JakubMelka/PDF4QT) and uses license **LGPLv3**.
 
-{% include button.html text="Github" icon="github" link="https://github.com/JakubMelka/PDF4QT" color="#0366d6" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://JakubMelka.github.io&text=PDF4QT&via=JakubMelka" color="#0d94e7" %} {% include button.html text="Install PDF4QT" link="https://github.com/JakubMelka/PDF4QT/releases" %}
+{% include button.html text="Github" icon="github" link="https://github.com/JakubMelka/PDF4QT" color="#0366d6" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://JakubMelka.github.io&text=PDF4QT&via=JakubMelka" color="#0d94e7" %} {% include button.html text="Install PDF4QT" link="https://github.com/JakubMelka/PDF4QT/releases" color="#6cbd45" %}
 
 ## Goals
 
@@ -75,7 +75,7 @@ Installators are provided for Windows only. For Linux, you must build it on your
 On Windows platform, it is required to have MS Visual Studio 2019 Redistributable Package installed. It can be easily
 downloaded from Microsoft pages.
 
-{% include button.html text="Install PDF4QT" link="https://github.com/JakubMelka/PDF4QT/releases" %}
+{% include button.html text="Install PDF4QT" link="https://github.com/JakubMelka/PDF4QT/releases" color="#6cbd45" %}
 
 
 

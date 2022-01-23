@@ -1,8 +1,8 @@
 ---
 title: Links
 feature_text: |
-  Useful links
-feature_image: "https://picsum.photos/2560/600?image=873"
+  # <font face="Sans Serif">Useful links</font>
+feature_image: "/assets/main.png"
 excerpt: "At this link, you can find source repository:"
 aside: true
 ---
