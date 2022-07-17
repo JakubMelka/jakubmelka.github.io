@@ -53,10 +53,11 @@ Software has following major features:
 - internal structure inspector
 - compare documents
 - redaction (remove sensitive content)
+- document signing
 - many other!
 
 ## Build
-Generally, you should use Qt 5.14.2 or newer, and use latest compiler supporting C++20. Tested compilers include MSVC, mingw, gcc and clang.
+Generally, you should use Qt 5.15.2 or newer, and use latest compiler supporting C++20. Tested compilers include MSVC, mingw, gcc and clang.
 
 ### Windows
 
@@ -71,9 +72,7 @@ compile the project.
 
 ## Installation
 
-Installators are provided for Windows only. For Linux, you must build it on your own (see build information above).
-On Windows platform, it is required to have MS Visual Studio 2019 Redistributable Package installed. It can be easily
-downloaded from Microsoft pages.
+MSI installator is provided for MS Windows, and zip archive is available with all files to be able to run program without installation. For Linux, you must build it on your own (see build information above).
 
 {% include button.html text="Install PDF4QT" link="https://github.com/JakubMelka/PDF4QT/releases" color="#6cbd45" %}
 
