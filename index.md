@@ -72,7 +72,7 @@ compile the project.
 
 ## Installation
 
-MSI installator is provided for MS Windows, and zip archive is available with all files to be able to run program without installation. For Linux, you must build it on your own (see build information above).
+MSI installator is provided for MS Windows, and zip archive is available with all files to be able to run program without installation. For Linux, no installator or package is provided, but you can build it on your own (see build information above).
 
 {% include button.html text="Install PDF4QT" link="https://github.com/JakubMelka/PDF4QT/releases" color="#6cbd45" %}
 
