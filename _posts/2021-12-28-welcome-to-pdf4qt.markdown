@@ -12,7 +12,7 @@ Let me introduce a new software for processing PDF documents. Why to start a new
 For this reason, in year 2018, I have decided to start a new project - PDF4QT, which offers much more - it aims to be alternative to commercial pdf editors. This year, 2021, initial version of this software was released for public testing.
 
 ## Properties
- - Provide open source alternative to commercial pdf editors
+ - Provide open source alternative to **commercial pdf editors**
  - Offer better licensing terms than GPL or AGPL, so it is more usable in both open-source and commercial applications
  - Use modern **C++** features and utilize modern **multicore CPUs**
  - Support for Windows/Linux

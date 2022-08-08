@@ -14,7 +14,7 @@ PDF4QT is all-in-one open source software for processing PDF files on Windows/Li
 ## Goals
 
 Project aims to match these goals:
- - Provide open source alternative to *commercial pdf editors* 
+ - Provide open source alternative to **commercial pdf editors** 
  - Offer better licensing terms than GPL or AGPL, so it is more usable in both open-source and commercial applications
  - Use modern **C++** features and utilize modern **multicore CPUs**
  - Support for Windows/Linux
