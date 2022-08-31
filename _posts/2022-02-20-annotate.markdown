@@ -1,80 +1,80 @@
 ---
-layout: post
-title:  "How to annotate/markup PDF document"
-date:   2022-02-20 17:28:45 +0100
+
+layout: post  
+title:  "How to annotate/markup a PDF document"  
+date:   2022-02-20 17:28:45 +0100  
 categories: Lectures
 ---
 
-PDF4QT Viewer Profi offers extensive annotation tools. You can annotate PDF document by geometric shapes, sticky notes, stamps, text box and various forms of text highlighting. Tools are very easy to use and you can use mouse to create annotation directly on a page of PDF document. Use menu 'Insert' to start annotating your document. Annotator creates annotations defined in PDF 2.0 specification.
+PDF4QT ViewerProfi offers extensive annotation tools. You can annotate a PDF document with geometric shapes, sticky notes, stamps, text boxes and various forms of text highlighting. The tools are very easy to use, using your mouse to create annotations directly in the page of a PDF document. Go to the 'Insert' menu to start annotating your document. Annotator creates annotations as defined in the PDF 2.0 specifications.
 
 <!-- more -->
-
 ## Sticky notes
 
-Sticky notes are small markers (with various appearance), which can be clicked and contain text. To add a sticky note, use any of the sticky notes in submenu 'Sticky Notes' in menu 'Insert'. You can choose from Comment, Help, Insert, Key, New Paragraph, Note and Paragraph appearances, which differs only in graphic content of sticky note. After you click on page of PDF document, you can enter text for a sticky note.
+Sticky notes are small markers (in various graphic forms), which can be clicked on and contain text. To add a sticky note, go to the 'Sticky Notes' submenu under the 'Insert' menu. You can choose from Comment, Help, Insert, Key, New Paragraph, Note and Paragraph, which differ in graphic form only. After you click on a page of a PDF document, you can add a sticky note and enter text.
 
 <a class="bscreenshot-link" href="/assets/posts/03-sticky-note.png" data-lightbox="annot" data-title="Sticky note example."><img class="bscreenshot-image" src="/assets/posts/03-sticky-note-thumb.png" alt="Sticky note example." /></a>
 
 ## Hyperlink
 
-To insert clickable hyperlink, use command 'Hyperlink' from the 'Insert' menu. Then you can select hyperlink rectangle and enter url adress of hyperlink destination. User can then click on hyperlink and open destination.
+To insert a clickable hyperlink, use the command 'Hyperlink' under the 'Insert' menu. You then select the hyperlink rectangle and enter the url adress of the hyperlink destination. The user can then click on the hyperlink and open the destination.
 
 ## Inline text
 
-Inline text annotation is simple box with text content, using given alignment and appearance. You can create it by selecting 'Inline text' from the 'Insert' menu. After that, select a rectangle on a page of PDF document to create text box with given content.
+Inline text annotation is a simple box with text content, using the given alignment and appearance. You can create this by selecting 'Inline text' under the 'Insert' menu. Subsequently select a rectangle on the page of the PDF document to create a text box with content.
 
 <a class="bscreenshot-link" href="/assets/posts/03-inline-text.png" data-lightbox="annot" data-title="Inline text example."><img class="bscreenshot-image" src="/assets/posts/03-inline-text-thumb.png" alt="Inline text example." /></a>
 
 ## Straight line
 
-Straight line annotation is not just a straight line, but can appear also, for example, as dimension. Line can be ended with various marks, such as arrows, diamonds, circles etc. Additional text in the line, or above the line, can be added. Tool just creates straight red line, to modify appearance, just edit the annotation.
+Straight line annotation is not just a straight line, but can also appear as, for example, a dimension. Lines can end with various shapes, such as arrows, diamonds, dots, etc. Additional text in the line, or above the line, can be added. The tool creates a straight red line; to modify, just edit the annotation.
 
 <a class="bscreenshot-link" href="/assets/posts/03-line.png" data-lightbox="annot" data-title="Straight red line and modified line as dimension with arrow and offset."><img class="bscreenshot-image" src="/assets/posts/03-line-thumb.png" alt="Straight red line and modified line as dimension with arrow and offset." /></a>
 
 ## Polyline and polygon
 
-Polyline can have multiple internal points and can have ending markers. Polygon is just a regular polygon with optional transparent filling. Both of these annotations are used often to mark some important page area. Of course, appearance of the polyline and polygon can be changed via context menu.
+A polyline can have multiple internal points and end markers. A polygon is just a regular polygon with optional transparent filling. Both of these annotations are often used to mark an important area on a page. The appearance of the polyline or polygon can be changed via the context menu.
 
 <a class="bscreenshot-link" href="/assets/posts/03-polyline.png" data-lightbox="annot" data-title="Polyline annotation example."><img class="bscreenshot-image" src="/assets/posts/03-polyline-thumb.png" alt="Polyline annotation example." /></a>
 
 <a class="bscreenshot-link" href="/assets/posts/03-polygon.png" data-lightbox="annot" data-title="Two polygon annotation examples with different filling."><img class="bscreenshot-image" src="/assets/posts/03-polygon-thumb.png" alt="wo polygon annotation examples with different filling." /></a>
 
-## Ellipse
+## Elipse
 
-Ellipse annotation is simply an ellipse with transparent filling. It is also often used to mark important areas of a page of PDF document.
+The elipse annotation is simply an elipse with transparent filling. It is also often used to mark important areas on a page of a PDF document.
 
 <a class="bscreenshot-link" href="/assets/posts/03-ellipse.png" data-lightbox="annot" data-title="Ellipse annotation example."><img class="bscreenshot-image" src="/assets/posts/03-ellipse-thumb.png" alt="Ellipse annotation example." /></a>
 
 ## Freehand curve
 
-Freehand curve is annotation that is drawn using mouse cursor tracking. After activating the tool, you can draw shape with left mouse button down, and after you release the mouse button, annotation is finished and created.
+The freehand curve annotation draws shapes using mouse cursor tracking. After activating the tool, press and hold the left mouse button and draw the shape you require. Upon releasing the mouse button, the annotation is finished and created.
 
 <a class="bscreenshot-link" href="/assets/posts/03-freehand-curve.png" data-lightbox="annot" data-title="Freehand curve annotation example."><img class="bscreenshot-image" src="/assets/posts/03-freehand-curve-thumb.png" alt="Freehand curve annotation example." /></a>
 
 ## Stamp
 
-Stamp annotation can have various purposes (it is really a stamp, or it signals user some important information, for example, that document is not for a public release - after it is finished, stamp can be removed). Stamp can have various appearance and various text in it. Some most common text is offered in the submenu 'Stamp' of the menu 'Insert'.
+Stamp annotation can fulfil various purposes (as a real stamp, or as a signal for users regarding important information e.g. that a document is not for public release - after it is finished, the stamp can be removed). The stamp can be of various forms and include different texts. Some of the most common texts can be found in the 'Stamp' submenu under the 'Insert' menu.
 
 <a class="bscreenshot-link" href="/assets/posts/03-stamp.png" data-lightbox="annot" data-title="Several stamp annotations with different texts and color."><img class="bscreenshot-image" src="/assets/posts/03-stamp-thumb.png" alt="Several stamp annotations with different texts and color." /></a>
 
 ## Text markdown
 
-Text markdown annotations are used for text highlighting. There are four ones - 'Highlight', which paints transparent highlight box, 'Underline', which draws line under the text, 'Strikeout', which appears as a red line over the text, and 'Squiggly', appears as a wavy red line under the text - often used to mark grammar mistakes. Of course, tool can easily select text which you want to mark.
+Text markdown annotations are used for text highlighting. There are four: 'Highlight' - which paints a transparent highlight box; 'Underline' - which draws a line under text; 'Strikeout' - which appears as a red line through the text; and 'Squiggly' - which appears as a wavy red line under text - often used to mark grammar mistakes. It goes without saying that the tool enables you to easily select the text you wish to mark.
 
 <a class="bscreenshot-link" href="/assets/posts/03-text-highlight.png" data-lightbox="annot" data-title="Four types of text markdown - 'Highlight', 'Underline', 'Strikeout' and 'Squiggly'."><img class="bscreenshot-image" src="/assets/posts/03-text-highlight-thumb.png" alt="Four types of text markdown - 'Highlight', 'Underline', 'Strikeout' and 'Squiggly'." /></a>
 
-## Edit/clone/remove annotations
+## Edit/clone/delete annotations
 
-Of course, existing annotations can be easily edited, deleted or cloned onto multiple pages. Just click on an annotation to display context menu, where you can choose from several actions, such as edit, delete or clone onto multiple pages. If you want to modify content of the annotation, just choose edit, and then edit dialog appears, where you can choose all properties of a given annotation.
+Existing annotations can easily be edited, deleted or cloned onto multiple pages. Just click on an annotation to display the context menu, where you can choose from several actions, such as edit, delete or clone onto multiple pages. If you want to modify the content of an annotation, choose edit. The edit dialog then appears, where you can subsequently choose all the properties of the selected annotation.
 
-Useful feature is cloning annotation on a multiple pages, for example, if you want for example to mark each page by stamp annotation, or display textbox with copyright information etc. Just click on 'Clone to Multiple Pages'. Then dialog appears with page selection. After pages are selected, annotation is copied.
+The cloning feature is also very useful. If, for example, you want to mark each page with a stamp, or display a textbox with copyright information, etc., just click on 'Clone to Multiple Pages'. The dialog appears for page selection. After the pages have been selected, the annotation is copied.
 
 ## Notes
 
-- Annotations are specified directly in PDF file, using standard format from PDF 2.0 specification
-- Use Undo/Redo action to undo unwanted changes or redo changes accidentaly undoed
-- Annotations can be cloned, edited and removed
-- Easy tools are available for the most common annotation types
-- Redact annotation can be created by using 'Redact' plugin
+- Annotations are specified directly in the PDF file in standard format as defined in the PDF 2.0 specifications
+- Utilize Undo/Redo action to undo unwanted changes or redo changes accidentaly undone
+- Annotations can be cloned, edited and deleted
+- Easy tools are available for the most common types of annotation
+- The redaction of annotations is facilitated by utilizing the 'Redact' plug-in
 
 <script src="/lightbox2/js/lightbox-plus-jquery.js"></script>
