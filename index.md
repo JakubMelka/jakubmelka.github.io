@@ -1,7 +1,7 @@
 ---
 title: About PDF4QT
 feature_text: |
-# <font face="Sans Serif">PDF4QT</font>
+  # <font face="Sans Serif">PDF4QT</font>
   <font face="Sans Serif">PDF4QT is open source, Qt-based PDF processing software. It contains a C++ library, applications for viewing/editing PDF documents and a command line tool.</font>
 feature_image: "assets/main.png"  
 excerpt: "PDF4QT is an all-in-one solution for processing PDF files in Windows/Linux. "
