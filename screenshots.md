@@ -1,7 +1,7 @@
 ---
 title: Screenshots
 feature_text: |
-# <font face="Sans Serif">Gallery - View Screenshots</font>
+  # <font face="Sans Serif">Gallery - View Screenshots</font>
 feature_image: "/assets/main.png"  
 excerpt: "On this page you will see screenshots from PDF4QT applications."
 aside: true

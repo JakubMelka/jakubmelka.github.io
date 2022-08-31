@@ -1,7 +1,7 @@
 ---
 title: Links
 feature_text: |
-# <font face="Sans Serif">Useful links</font>
+  # <font face="Sans Serif">Useful links</font>
 feature_image: "/assets/main.png"  
 excerpt: "This link will take you to the source repository:"  
 aside: true
