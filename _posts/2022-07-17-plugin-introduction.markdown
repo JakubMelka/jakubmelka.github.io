@@ -21,7 +21,7 @@ Converts PDF into an audiobook using MS Sapi (Microsoft's library for voice synt
 - various tools to edit a text stream
 - audio stream synthesization using a selected voice
 
-## Dimensions
+## Dimensions plug-in
 
 Provides various tools to measure distance/area in PDF document. User can select metric and imperial units. Tools can be started via the toolbar. Dimensions can be erased; they are not part of the PDF document.
 
@@ -31,7 +31,7 @@ Provides various tools to measure distance/area in PDF document. User can select
 - angle measurement
 - 2D dimensions measuring area/perimeter
 
-## ObjectInspector
+## ObjectInspector plug-in
 
 Inspects the internal structure of a PDF document. Can display the content of pages, fonts, images, document catalog and other objects in a well organized dialog. Object inspector dialog uses a tree navigator on the left, and a widget content display on the right. This plug-in also displays object statistics and memory consumption.
 
@@ -41,7 +41,7 @@ Inspects the internal structure of a PDF document. Can display the content of pa
 - displays content of internal PDF objects, including content streams and images
 - displays object statistics and memory consumption
 
-## OutputPreview
+## OutputPreview plug-in
 
 Plug-in which enables PDF transparency rendering, using spot colors. It can simulate separations, paper color, or filter content via content filters - for example, the display of images/vector graphics can be turned off. In the output preview window, the user can select which color channels are to be shown. This plug-in can also measure ink usage on the pages.
 
@@ -55,7 +55,7 @@ Plug-in which enables PDF transparency rendering, using spot colors. It can simu
 - ink coverage warnings
 - soft proofing
 
-## Redact
+## Redact plug-in
 
 Removes sensitive content from a PDF document using various tools. The user can select a rectangular area with a tool, or select text to be redacted, or redact whole pages. This plug-in cooperates with text search - the results of a text search can also be redacted. The plug-in can redact all content, with exception to shading and tiling patterns. Image redaction is supported - redacted content is internally deleted from the image. After the user has selected the content to be redacted, a redacted document can be created in which any sensitive content is permanently removed, with the redacted area marked as black.
 
@@ -66,7 +66,7 @@ Removes sensitive content from a PDF document using various tools. The user can 
 - cooperates with text search results
 - creation of redacted document
 
-## Signature
+## Signature plug-in
 
 Sign documents electronically or digitally using a certificate. The user can create graphics of their signature using various tools, then sign documents electronically (where there is no reliable verification via a certificate) or digitally using a certificate provided by the user. The user can manage certificates via certificate manager, which can import pfx files containing certificates.
 
@@ -78,7 +78,7 @@ Sign documents electronically or digitally using a certificate. The user can cre
 - certificate manager
 - import external certificates in pfx format
 
-## SoftProofing
+## SoftProofing plug-in
 
 Provides simple soft proofing and gamut checking using a selected icc profile.
 
