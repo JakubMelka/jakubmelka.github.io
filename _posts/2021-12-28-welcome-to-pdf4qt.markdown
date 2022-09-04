@@ -15,8 +15,8 @@ It is for this reason that, in 2018, I decided to start a new project - PDF4QT. 
 - It is an open source alternative to **commercial pdf editors**
 - It offers better licensing terms than GPL or AGPL, so it is more usable in both open source and commercial applications
 - It utilizes modern **C++** features and **multicore CPUs**
-- It is supported by Windows/Linux
-- It is supported by standard **PDF 2.0**
+- It is supported in Windows/Linux
+- It uses standard **PDF 2.0**
 
 ## Future long-term goals
 

@@ -18,8 +18,8 @@ The project has the following goals:
 - To provide an open source alternative to **commercial pdf editors**
 - To offer better licensing terms than GPL or AGPL, so it is more usable in both open source and commercial applications
 - To utilize modern **C++** features and **multicore CPUs**
-- To be supported by Windows/Linux
-- To be fully support by standard **PDF 2.0**
+- To support application in Windows/Linux
+- To fully integrate standard **PDF 2.0**
 - To support 4K/8K monitors (high DPI devices)
 
 ## Applications

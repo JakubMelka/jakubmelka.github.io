@@ -39,9 +39,9 @@ A polyline can have multiple internal points and end markers. A polygon is just 
 
 <a class="bscreenshot-link" href="/assets/posts/03-polygon.png" data-lightbox="annot" data-title="Two polygon annotation examples with different filling."><img class="bscreenshot-image" src="/assets/posts/03-polygon-thumb.png" alt="wo polygon annotation examples with different filling." /></a>
 
-## Elipse
+## Ellipse
 
-The elipse annotation is simply an elipse with transparent filling. It is also often used to mark important areas on a page of a PDF document.
+The ellipse annotation is simply an ellipse with transparent filling. It is also often used to mark important areas on a page of a PDF document.
 
 <a class="bscreenshot-link" href="/assets/posts/03-ellipse.png" data-lightbox="annot" data-title="Ellipse annotation example."><img class="bscreenshot-image" src="/assets/posts/03-ellipse-thumb.png" alt="Ellipse annotation example." /></a>
 
