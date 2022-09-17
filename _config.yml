@@ -90,9 +90,9 @@ defaults:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
-title: "PDF4QT" # Site name or title, also used in jekyll-seo-tag
+title: "PDF4QT - open source PDF editor" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "PDF4QT is open source PDF processing software. It contains C++ library and applications for viewing/editing PDF documents and a command line tool." # Site description and default description, also used in jekyll-seo-tag
+description: "PDF4QT is open source PDF editor. It contains C++ library and applications for viewing/editing PDF documents and a command line tool." # Site description and default description, also used in jekyll-seo-tag
 url: "https://jakubmelka.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/JakubMelka/jakubmelka.github.io"
