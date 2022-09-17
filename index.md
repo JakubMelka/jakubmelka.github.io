@@ -2,12 +2,12 @@
 title: About PDF4QT
 feature_text: |
   # <font face="Sans Serif">PDF4QT</font>
-  <font face="Sans Serif">PDF4QT is open source, Qt-based PDF processing software. It contains a C++ library, applications for viewing/editing PDF documents and a command line tool.</font>
+  <font face="Sans Serif">PDF4QT is open source PDF editor based on Qt framework. It contains a C++ library, applications for viewing/editing PDF documents and a command line tool.</font>
 feature_image: "assets/main.png"  
-excerpt: "PDF4QT is an all-in-one solution for processing PDF files in Windows/Linux. "
+excerpt: "PDF4QT is an open source PDF editor for Windows/Linux. "
 ---
 
-PDF4QT is an all-in-one open source software for processing PDF files in Windows/Linux. It is a **modern solution** for viewing/editing/rendering PDF documents, for users and developers alike. For developers, there is a **C++ library** and a **command line tool** for use in scripts. For users, there are **four applications** offering many features. The project is hosted on [Github](https://github.com/JakubMelka/PDF4QT) and uses license **LGPLv3**.
+PDF4QT is an open source PDF editor for Windows/Linux. It is a **modern solution** for viewing/editing/rendering PDF documents, for users and developers alike. For developers, there is a **C++ library** and a **command line tool** for use in scripts. For users, there are **four applications** offering many features. The project is hosted on [Github](https://github.com/JakubMelka/PDF4QT) and uses license **LGPLv3**.
 
 {% include button.html text="Github" icon="github" link="https://github.com/JakubMelka/PDF4QT" color="#0366d6" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://JakubMelka.github.io&text=PDF4QT&via=JakubMelka" color="#0d94e7" %} {% include button.html text="Install PDF4QT" link="https://github.com/JakubMelka/PDF4QT/releases" color="#6cbd45" %}
 
