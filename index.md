@@ -65,7 +65,7 @@ You should use Qt 6.4 or newer, and use the latest compiler supporting C++20. Te
 To build this project, you will need:
 
 - Qt 6.4 or newer with CMAKE 3.16 or newer
-- VCPKG(https://vcpkg.io/en/index.html) package manager
+- [VCPKG](https://vcpkg.io/en/index.html) package manager
 - Compiler supporting C++20 (MSVC, mingw or gcc)
 
 Then, you can compile this project, dependencies are automatically downloaded via VCPKG. On Windows, you can also optionally create Wix project for .msi installer.
