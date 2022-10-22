@@ -58,18 +58,17 @@ The software features:
 
 ## Build
 
-You should use Qt 5.15.2 or newer, and use the latest compiler supporting C++20. Tested compilers include MSVC, mingw, gcc and clang.
+You should use Qt 6.4 or newer, and use the latest compiler supporting C++20. Tested compilers include MSVC, mingw, and gcc.
 
-### Windows
+### Windows / Linux
 
-In Windows, there are two options to build this software
+To build this project, you will need:
 
-- Use *.pro project file together with downloaded dependencies
-- Use *.qbs project file which uses [Conan](https://conan.io/) to download dependencies
+- Qt 6.4 or newer with CMAKE 3.16 or newer
+- VCPKG(https://vcpkg.io/en/index.html) package manager
+- Compiler supporting C++20 (MSVC, mingw or gcc)
 
-### Linux
-
-In Linux, only Qbs build is supported. Download all prerequisites (Qt, Conan and compiler) and use .qbs file to compile the project.
+Then, you can compile this project, dependencies are automatically downloaded via VCPKG. On Windows, you can also optionally create Wix project for .msi installer.
 
 ## Installation
 
