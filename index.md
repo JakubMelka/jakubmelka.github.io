@@ -2,7 +2,7 @@
 title: About PDF4QT
 feature_text: |
   # <font face="Sans Serif">PDF4QT</font>
-  <font face="Sans Serif">PDF4QT is open source PDF editor based on Qt framework. It contains a C++ library, applications for viewing/editing PDF documents and a command line tool.</font>
+  <font face="Sans Serif">Unleash the power of PDF4QT: Your go-to open source PDF editor powered by the Qt framework. With a robust C++ library, intuitive PDF viewing/editing applications, and a handy command-line tool, PDF4QT streamlines your PDF interactions. Try it today.</font>
 feature_image: "assets/main.png"  
 excerpt: "PDF4QT is an open source PDF editor for Windows/Linux. "
 ---

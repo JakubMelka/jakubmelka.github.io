@@ -14,14 +14,15 @@ I have been meticulously fine-tuning this version based on the valuable insights
 
 Here's what you can look forward to in this new release:
 
-Issue #75: The sidebar widget has undergone a complete makeover.
-Issue #74: No more automatic opening of the sidebar while highlighting text.
-Issue #73: Several minor GUI glitches have been resolved.
-Issue #71: The issue of pages appearing as "mirrored" has been addressed.
-Issue #69: The issue with dashed lines not rendering correctly has been fixed.
-Issue #68: I have added an alternative VCPKG file that relies on Qt.
-Issue #59: The character font encoding issue has been fixed. The software will no longer use the Mac Roman table (1, 0) when the unicode table (3, 1) is available, as specified.
-Issue #50: The issues associated with some PDF types not opening as expected, or failing to open entirely, have been resolved.
+ - Issue #75: The sidebar widget has undergone a complete makeover.
+ - Issue #74: No more automatic opening of the sidebar while highlighting text.
+ - Issue #73: Several minor GUI glitches have been resolved.
+ - Issue #71: The issue of pages appearing as "mirrored" has been addressed.
+ - Issue #69: The issue with dashed lines not rendering correctly has been fixed.
+ - Issue #68: I have added an alternative VCPKG file that relies on Qt.
+ - Issue #59: The character font encoding issue has been fixed. The software will no longer use the Mac Roman table (1, 0) when the unicode table (3, 1) is available, as specified.
+ - Issue #50: The issues associated with some PDF types not opening as expected, or failing to open entirely, have been resolved.
+
 I sincerely hope that these updates will prove beneficial and significantly enhance your experience with PDF4QT. My ultimate goal is to refine this software continually and deliver the finest product to you.
 
 Your insights are of immense value to me, and I encourage you to keep providing your feedback, suggestions, and reviews.
