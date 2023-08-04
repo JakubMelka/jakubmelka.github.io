@@ -26,37 +26,39 @@ Join me on this journey and experience the power of PDF4QT today!
 
 ## Applications
 
-The applications are primarily used by target users to view, edit, manipulate or compare PDF documents. Users can preview these applications in the screenshots section of this webpage. There are four applications:
+Discover the power and versatility of PDF4QT's suite of applications. These tools are designed to transform the way you interact with PDF documents, offering a comprehensive set of features for viewing, editing, manipulating, and comparing PDFs. Preview our applications in the screenshots section and unlock a new level of efficiency in your workflow. Here's what we offer:
 
-- **PDF4QT Viewer Profi**: Basic browsing and lots of other functionalities, such as encryption, reading a document, verification of digital signatures, editing of annotations, searching for text using regular expressions, drawing pages into an image, and much more. Several plug-ins are available.
-- **PDF4QT Viewer Lite**: Simple document viewer with basic functionalities.
-- **PDF4QT DocPage Organizer**: Used for the manipulation of whole documents and individual pages. Documents can be merged into one, or split into multiple ones. Pages can be (re)moved, cloned, or added. All this in an easy and intuitive user interface.
-- **PDF4QT DocDiff**: Used to compare similar documents. The user opens two documents and receives a list of differences in a well-arranged list. The differences can also be viewed in a page-to-page window in which they are marked. Differences can be saved into an XML file.
+- **PDF4QT Viewer Profi**: Go beyond basic browsing. This tool packs a punch with a host of advanced features, including encryption, document reading, digital signature verification, annotation editing, and even support for searching text using regular expressions. Turn pages into images, and enhance your PDF interactions with multiple available plugins.
+- **PDF4QT Viewer Lite**: Simplify your viewing experience. This lightweight viewer offers essential viewing functions in a clean, user-friendly interface.
+- **PDF4QT DocPage Organizer**: Take control of your documents. Manage whole documents or individual pages with ease. Merge documents into a single file, or split them into multiple ones. You can also move, clone, or add pages with a few clicks, all within an intuitive user interface.
+- **PDF4QT DocDiff**: Spot differences effortlessly. This tool allows users to open two documents and receive a detailed list of differences. View these differences in a page-to-page window where they are clearly marked. Save these differences into an XML file for future reference.
+
+Experience the future of PDF interactions today with the PDF4QT suite of applications. Try them out now!
 
 ## Features
 
-The software features:
+Unleash the full potential of your PDF interactions with PDF4QT's impressive lineup of features. Designed to cater to a wide spectrum of needs, these features will revolutionize the way you handle PDFs. Here's what you can expect:
 
-- multithreading support
-- hardware accelerated rendering
-- encryption
-- color management
-- optional content handling
-- text layout analysis
-- signature validation
-- annotations
-- form filling
-- text to speech capability
-- editation
-- file attachments
-- optimalization (compressing documents)
-- command line tool
-- audio book conversion
-- internal structure inspector
-- compare documents
-- redaction (removal of sensitive content)
-- document signing
-- .... and much more!
+- **Multithreading Support**: Harness the power of multicore CPUs for faster, more efficient PDF processing.
+- **Hardware Accelerated Rendering**: Enjoy seamless, high-quality rendering with hardware acceleration.
+- **Encryption**: Ensure your documents' security with robust encryption capabilities.
+- **Color Management**: Maintain the integrity and accuracy of your PDF's color profiles.
+- **Optional Content Handling**: Have full control over what content to display or hide.
+- **Text Layout Analysis**: This feature allows for an in-depth analysis of your existing text, enabling the conversion of PDFs into text, thereby facilitating a more efficient editing and formatting process.
+- **Signature Validation**: Verify digital signatures with ease and confidence.
+- **Annotations and Form Filling**: Make your PDFs interactive with annotation and form filling features.
+- **Text to Speech Capability**: Access your PDFs in audio form with text to speech conversion.
+- **Advanced Annotation Tools**: Enhance your PDFs by adding annotations, images, text and more.
+- **File Attachments Management**: Easily view and manage the list of attached documents in your PDFs and save them to your desired location.
+- **Optimization**: Reduce file size without compromising quality with document compression.
+- **Command Line Tool**: Easily access and control PDF4QT via command line.
+- **Audio Book Conversion**: Convert your PDFs into audio books for convenient access.
+- **Internal Structure Inspector**: Understand your PDFs better with a detailed view of their internal structure.
+- **Compare Documents**: Easily identify differences between similar documents.
+- **Redaction**: Safeguard sensitive information by removing it from your PDFs.
+- **Document Signing**: Sign your documents digitally for authenticity and validation.
+
+- ...and much more! Delve into the world of PDF4QT and experience a new standard of handling PDFs. Test out these features today!
 
 ## Build
 
@@ -74,6 +76,6 @@ Then, you can compile this project, dependencies are automatically downloaded vi
 
 ## Installation
 
-MSI installer is provided for MS Windows. A zip archive containing all the files is also available to be able to run the program without installation. For Linux, no installer or package is provided. However, this can be built by yourself (see build information above).
+MSI installer is readily provided for MS Windows users, complete with a zip archive containing all the necessary files for those who prefer to run the program without installation. Exciting news for Linux users - a deb package is now available, bringing you a seamless installation experience. See build information above if you wish to build the package yourself. Dive into the world of PDF4QT today, and transform your PDF interactions like never before.
 
 {% include button.html text="Install PDF4QT" link="https://github.com/JakubMelka/PDF4QT/releases" color="#6cbd45" %}
