@@ -1,0 +1,31 @@
+---
+
+layout: post  
+title:  "New Release: PDF4QT Version 1.3.4 for Linux (August 3, 2023)"  
+date:   2023-08-04 12:27:33 +0100  
+categories: Releases
+---
+
+I'm glad to introduce you to the latest version of my open-source PDF editor, PDF4QT, Version 1.3.4. 
+
+<!-- more -->
+
+I have been meticulously fine-tuning this version based on the valuable insights and feedback I have received from you. This version comes with several essential updates and fixes designed to enhance your experience.
+
+Here's what you can look forward to in this new release:
+
+Issue #75: The sidebar widget has undergone a complete makeover.
+Issue #74: No more automatic opening of the sidebar while highlighting text.
+Issue #73: Several minor GUI glitches have been resolved.
+Issue #71: The issue of pages appearing as "mirrored" has been addressed.
+Issue #69: The issue with dashed lines not rendering correctly has been fixed.
+Issue #68: I have added an alternative VCPKG file that relies on Qt.
+Issue #59: The character font encoding issue has been fixed. The software will no longer use the Mac Roman table (1, 0) when the unicode table (3, 1) is available, as specified.
+Issue #50: The issues associated with some PDF types not opening as expected, or failing to open entirely, have been resolved.
+I sincerely hope that these updates will prove beneficial and significantly enhance your experience with PDF4QT. My ultimate goal is to refine this software continually and deliver the finest product to you.
+
+Your insights are of immense value to me, and I encourage you to keep providing your feedback, suggestions, and reviews.
+
+I am also happy to announce that a deb package is now available for Linux users. Don't hesitate! Update to PDF4QT Version 1.3.4 now and enjoy a more seamless and bug-free experience.
+
+Thank you for your ongoing support and for using PDF4QT. I am thrilled to have you on this journey, and I look forward to hearing your thoughts on the new release.
