@@ -7,20 +7,22 @@ feature_image: "assets/main.png"
 excerpt: "PDF4QT is an open source PDF editor for Windows/Linux. "
 ---
 
-PDF4QT is an open source PDF editor for Windows/Linux. It is a **modern solution** for viewing/editing/rendering PDF documents, for users and developers alike. For developers, there is a **C++ library** and a **command line tool** for use in scripts. For users, there are **four applications** offering many features. The project is hosted on [Github](https://github.com/JakubMelka/PDF4QT) and uses license **LGPLv3**.
+Experience the power of PDF4QT: An open-source PDF editor designed for both Windows and Linux. This **modern solution** offers an unparalleled experience for viewing, editing, and rendering PDF documents for all users, as well as developers. Developers have access to a robust **C++ library** and a practical **command line tool** for seamless script integration. Regular users can enjoy our **four applications** packed with a wealth of features. The PDF4QT project is proudly hosted on [Github](https://github.com/JakubMelka/PDF4QT) and operates under the **LGPLv3** license. Discover the future of PDF interaction with PDF4QT today.
 
 {% include button.html text="Github" icon="github" link="https://github.com/JakubMelka/PDF4QT" color="#0366d6" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://JakubMelka.github.io&text=PDF4QT&via=JakubMelka" color="#0d94e7" %} {% include button.html text="Install PDF4QT" link="https://github.com/JakubMelka/PDF4QT/releases" color="#6cbd45" %}
 
 ## Goals
 
-The project has the following goals:
+As the principal developer behind PDF4QT, I have set the following goals for the project:
 
-- To provide an open source alternative to **commercial pdf editors**
-- To offer better licensing terms than GPL or AGPL, so it is more usable in both open source and commercial applications
-- To utilize modern **C++** features and **multicore CPUs**
-- To support application in Windows/Linux
-- To fully integrate standard **PDF 2.0**
-- To support 4K/8K monitors (high DPI devices)
+- To create a robust open-source alternative to **commercial PDF editors**, opening up advanced PDF editing capabilities to all.
+- To offer licensing terms that are more flexible than GPL or AGPL, making PDF4QT a suitable choice for both open-source enthusiasts and commercial users.
+- To harness **modern C++** features and the power of **multicore CPUs**, delivering a highly efficient PDF editing experience.
+- To ensure PDF4QT is inclusive and accessible, supporting applications on both Windows and Linux platforms.
+- I'm actively working towards the full integration of the standard **PDF 2.0** to stay on top of the latest developments in PDF technology. While this is a work in progress, my commitment to this goal is unwavering.
+- Recognizing the increasing prevalence of high-resolution monitors, I'm dedicated to ensuring PDF4QT supports 4K/8K monitors (high DPI devices) for a visually stunning user experience.
+
+Join me on this journey and experience the power of PDF4QT today!
 
 ## Applications
 
