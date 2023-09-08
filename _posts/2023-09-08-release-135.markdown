@@ -1,0 +1,25 @@
+---
+
+layout: post  
+title:  "New Release: PDF4QT Version 1.3.5 (September 8, 2023)"  
+date:   2023-09-08 19:07:44 +0100  
+categories: Releases
+---
+
+I'm excited to present to you the most recent iteration of my open-source PDF tool, PDF4QT, Version 1.3.5.
+
+<!-- more -->
+I've dedicatedly polished this release, drawing from the constructive feedback and insights you've generously shared. This new version boasts a series of key updates and fixes, all aimed at elevating your user experience.
+
+In this update, you'll discover the following improvements:
+
+ - Issue #65: Text2Speech doesn't work on Linux
+ - Issue #72: Cannot select text
+ - Issue #82: Hot reload function
+ - Issue #80: Optimizer is slow on large PDF files
+ - Issue #77: Document read error
+ - Issue #78: Error decompressing stream
+ 
+It's my sincere wish that you find these enhancements enriching, taking your PDF4QT experience to a new height. My enduring aim is to consistently polish this application to ensure you have the best tool at your fingertips.
+
+Your feedback has always been a cornerstone of this project. Please continue to share your opinions, ideas, and critiques. Your unwavering support and patronage of PDF4QT mean the world to me. It's a pleasure having you accompany me on this venture. I eagerly await your impressions on this latest release.
