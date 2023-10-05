@@ -1,10 +1,10 @@
 ---
-title: About PDF4QT
+title: About
 feature_text: |
   # <font face="Sans Serif">PDF4QT</font>
   <font face="Sans Serif">Unleash the power of PDF4QT: Your go-to open source PDF editor powered by the Qt framework. With a robust C++ library, intuitive PDF viewing/editing applications, and a handy command-line tool, PDF4QT streamlines your PDF interactions. Try it today.</font>
 feature_image: "assets/main.png"  
-excerpt: "PDF4QT is an open source PDF editor for Windows/Linux. "
+excerpt: "PDF4QT is an open source PDF editor for Windows/Linux. This modern solution offers an unparalleled experience for viewing, editing, and rendering PDF documents."
 ---
 
 Experience the power of PDF4QT: An open-source PDF editor designed for both Windows and Linux. This **modern solution** offers an unparalleled experience for viewing, editing, and rendering PDF documents for all users, as well as developers. Developers have access to a robust **C++ library** and a practical **command line tool** for seamless script integration. Regular users can enjoy our **four applications** packed with a wealth of features. The PDF4QT project is proudly hosted on [Github](https://github.com/JakubMelka/PDF4QT) and operates under the **LGPLv3** license. Discover the future of PDF interaction with PDF4QT today.
@@ -15,7 +15,7 @@ Experience the power of PDF4QT: An open-source PDF editor designed for both Wind
 
 As the principal developer behind PDF4QT, I have set the following goals for the project:
 
-- To create a robust open-source alternative to **commercial PDF editors**, opening up advanced PDF editing capabilities to all.
+- To create a robust foss pdf editor alternative to **commercial PDF editors**, opening up advanced PDF editing capabilities to all.
 - To offer licensing terms that are more flexible than GPL or AGPL, making PDF4QT a suitable choice for both open-source enthusiasts and commercial users.
 - To harness **modern C++** features and the power of **multicore CPUs**, delivering a highly efficient PDF editing experience.
 - To ensure PDF4QT is inclusive and accessible, supporting applications on both Windows and Linux platforms.
@@ -35,7 +35,7 @@ Discover the power and versatility of PDF4QT's suite of applications. These tool
 
 Experience the future of PDF interactions today with the PDF4QT suite of applications. Try them out now!
 
-## Features
+## Features of PDF open source reader and editor
 
 Unleash the full potential of your PDF interactions with PDF4QT's impressive lineup of features. Designed to cater to a wide spectrum of needs, these features will revolutionize the way you handle PDFs. Here's what you can expect:
 
