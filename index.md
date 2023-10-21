@@ -9,7 +9,7 @@ excerpt: "PDF4QT is an open source PDF editor for Windows/Linux. This modern sol
 
 Experience the power of PDF4QT: An open-source PDF editor designed for both Windows and Linux. This **modern solution** offers an unparalleled experience for viewing, editing, and rendering PDF documents for all users, as well as developers. Developers have access to a robust **C++ library** and a practical **command line tool** for seamless script integration. Regular users can enjoy our **four applications** packed with a wealth of features. The PDF4QT project is proudly hosted on [Github](https://github.com/JakubMelka/PDF4QT) and operates under the **LGPLv3** license. Discover the future of PDF interaction with PDF4QT today.
 
-{% include button.html text="Github" icon="github" link="https://github.com/JakubMelka/PDF4QT" color="#0366d6" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://JakubMelka.github.io&text=PDF4QT&via=JakubMelka" color="#0d94e7" %} {% include button.html text="Install PDF4QT" link="https://github.com/JakubMelka/PDF4QT/releases" color="#6cbd45" %}
+{% include button.html text="Github" icon="github" link="https://github.com/JakubMelka/PDF4QT" color="#0366d6" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://JakubMelka.github.io&text=PDF4QT&via=JakubMelka" color="#0d94e7" %} {% include button.html text="Install PDF4QT" link="https://github.com/JakubMelka/PDF4QT/releases" color="#6cbd45" %} {% include button.html text="Donate" link="https://github.com/sponsors/JakubMelka" color="#8b0000" %}
 
 ## Goals
 
