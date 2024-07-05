@@ -6,8 +6,6 @@ indexing: false
 sitemap: true
 ---
 
-## Privacy Policy
-
 ### Introduction
 Welcome to PDF4QT. We value your privacy and are committed to protecting your personal information. This Privacy Policy explains that our software does not collect, store, or share any personal data from its users.
 
