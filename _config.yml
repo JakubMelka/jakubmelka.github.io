@@ -34,6 +34,9 @@ plugins:
 - jekyll-include-cache
 - jemoji
 
+include:
+  - .well-known
+
 # 3. Gem settings
 paginate: 3 # jekyll-paginate > items per page
 paginate_path: blog/page:num # jekyll-paginate > blog page
