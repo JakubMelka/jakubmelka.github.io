@@ -76,6 +76,8 @@ Then, you can compile this project, dependencies are automatically downloaded vi
 
 ## Installation
 
-MSI installer is readily provided for MS Windows users, complete with a zip archive containing all the necessary files for those who prefer to run the program without installation. Exciting news for Linux users - a deb package is now available, bringing you a seamless installation experience. See build information above if you wish to build the package yourself. Dive into the world of PDF4QT today, and transform your PDF interactions like never before.
+An MSI installer is readily provided for MS Windows users, along with a ZIP archive containing all the necessary files for those who prefer to run the program without installation.
+Exciting news for Linux users – AppImage and Flatpak packages are now available, offering flexible and convenient installation options across a wide range of distributions.
+See the build information above if you wish to build the package yourself. Dive into the world of PDF4QT today, and transform your PDF interactions like never before.
 
 {% include button.html text="Install PDF4QT" link="https://github.com/JakubMelka/PDF4QT/releases" color="#6cbd45" %}
